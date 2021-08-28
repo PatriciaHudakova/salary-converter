@@ -1,0 +1,13 @@
+# Read about fixtures at https://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  yearly: 1.5
+  monthly: 1.5
+  daily: 1.5
+  hourly: 1.5
+
+two:
+  yearly: 1.5
+  monthly: 1.5
+  daily: 1.5
+  hourly: 1.5

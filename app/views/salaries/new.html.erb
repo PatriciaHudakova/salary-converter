@@ -1,0 +1,6 @@
+<%= form_for @salary do |f| %>
+  <%= f.label :yearly %>
+  £<%= f.text_field :yearly %>
+  <br /><br>
+  <%= f.submit "Calculate", class: "btn btn-outline-info" %>
+<% end %>

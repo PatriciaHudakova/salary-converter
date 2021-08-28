@@ -5,6 +5,7 @@
 #   git config --global core.excludesfile '~/.gitignore_global'
 
 .idea
+todo.txt
 
 # Ignore bundler config.
 /.bundle
